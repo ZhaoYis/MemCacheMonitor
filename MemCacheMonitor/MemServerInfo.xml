@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<myxml>
+  <MemServer>
+    <ServerID>127.0.0.1:11211</ServerID>
+    <ServerName>本地测试</ServerName>
+    <Valid>1</Valid>
+    <ServerDescr></ServerDescr>
+  </MemServer>
+</myxml>

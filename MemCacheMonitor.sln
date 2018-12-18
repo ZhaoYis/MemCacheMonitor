@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemCacheMonitor", "MemCacheMonitor\MemCacheMonitor.csproj", "{60691137-C67A-40FA-9B71-42E4D302A004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "Commons\Commons.csproj", "{F59D932B-636A-4715-A739-87B8AD96CA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Debug|x86.ActiveCfg = Debug|x86
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Debug|x86.Build.0 = Debug|x86
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Release|Any CPU.ActiveCfg = Release|x86
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Release|Mixed Platforms.Build.0 = Release|x86
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Release|x86.ActiveCfg = Release|x86
+		{60691137-C67A-40FA-9B71-42E4D302A004}.Release|x86.Build.0 = Release|x86
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F59D932B-636A-4715-A739-87B8AD96CA15}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5EC4ED-3060-4731-9B74-38DD0F6FF920}
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
